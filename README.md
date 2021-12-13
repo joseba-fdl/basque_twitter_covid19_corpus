@@ -9,3 +9,15 @@ Split	  Stage 			        From         To           Tweets    Retweets \
 2 	    Lockdown 		        2020/03/15   2020/06/21   296.627   349.368 \
 3 	    New normality		    2020/06/22   2020/10/24   343.372   362.279 \
 4 	    2nd state of alarm  2020/10/25   2021/01/31   415.388   347.533 
+
+
+## Publicly available:
+http://ixa2.si.ehu.eus/josebafdl/twitter_eu_19.zip
+
+## Cite as:
+@article{FernandezdeLanda2021TwitterrekoEK,
+  title={Twitterreko Euskal Komunitatearen Eduki Azterketa Pandemia Garaian},
+  author={Joseba Fernandez de Landa and Iker Garc{\'i}a Ferrero and Ander Salaberria Saizar and Jon Ander Campos Tejedor},
+  journal={IV. Ikergazte. Nazioarteko ikerketa euskaraz. Kongresuko artikulu bilduma. Ingeniaritza eta Arkitektura},
+  year={2021}
+}
