@@ -1,10 +1,11 @@
 
 # Basque Twitter Corpus extracted during Covid-19 pandemic
 
-The corpus is divided in 5 differents m
+The corpus is divided in 5 differents splits.\\
 
-0 split → Pre 2020 		        (01/09/2019 -- 31/12/2019) - 224.169 Tweet / 275.042 Retweet
-1 split → Pre konfinamendu 	  (01/01/2020 -- 14/03/2020) - 155.302 Tweet / 196.500 Retweet
-2 split → Konfinamendu 		    (15/03/2020 -- 21/06/2020) - 296.627 Tweet / 349.368 Retweet
-3 split → Normalitate berria  (22/06/2020 -- 24/10/2020) - 343.372 Tweet / 362.279 Retweet
-4 split → 2.alarma 		        (25/10/2020 -- 31/01/2021) - 415.388 Tweet / 347.533 Retweet
+Split	Stage 			From         To           Tweets    Retweets \\
+0 	Before 2020 		2019/09/01   2019/12/31   224.169   275.042 \\
+1 	Before lockdown		2020/01/01   2020/03/14   155.302   196.500 \\
+2 	Lockdown 		2020/03/15   2020/06/21   296.627   349.368 \\
+3 	New normality		2020/06/22   2020/10/24   343.372   362.279 \\
+4 	2nd state of alarm	2020/10/25   2021/01/31   415.388   347.533 \\
