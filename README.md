@@ -18,9 +18,3 @@ The corpus is divided in 5 differents splits.
 http://ixa2.si.ehu.eus/josebafdl/twitter_eu_19.zip
 
 ### Please, cite as:
-@article{FernandezdeLanda2021TwitterrekoEK,\
-  title={Twitterreko Euskal Komunitatearen Eduki Azterketa Pandemia Garaian},\
-  author={Joseba Fernandez de Landa and Iker Garc{\'i}a Ferrero and Ander Salaberria Saizar and Jon Ander Campos Tejedor},\
-  journal={IV. Ikergazte. Nazioarteko ikerketa euskaraz. Kongresuko artikulu bilduma. Ingeniaritza eta Arkitektura},\
-  year={2021}\
-}
