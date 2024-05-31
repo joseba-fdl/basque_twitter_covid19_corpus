@@ -19,7 +19,8 @@ http://ixa2.si.ehu.eus/josebafdl/twitter_eu_19.zip
 
 ### Please, cite as:
 
-```@inproceedings{fernandez-de-landa-etal-2024-uncovering,
+```
+@inproceedings{fernandez-de-landa-etal-2024-uncovering,
     title = "Uncovering Social Changes of the {B}asque Speaking {T}witter Community During {COVID}-19 Pandemic",
     author = "Fernandez de Landa, Joseba  and
       Garc{\'\i}a-Ferrero, Iker  and
@@ -35,5 +36,5 @@ http://ixa2.si.ehu.eus/josebafdl/twitter_eu_19.zip
     publisher = "ELRA and ICCL",
     url = "https://aclanthology.org/2024.sigul-1.44",
     pages = "363--371",
-    }
+}
 ```
